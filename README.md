@@ -20,3 +20,9 @@ $ curl -s https://getcomposer.org/installer | php
 $ php composer.phar install
 ```
 
+## Console
+```
+$ heroku run "php -a"
+```
+See: https://devcenter.heroku.com/articles/getting-started-with-php#start-an-interactive-shell
+
