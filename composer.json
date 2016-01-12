@@ -1,0 +1,17 @@
+{
+    "name": "tayutaedomo/heroku-php",
+    "description": "Execute php script on Heroku.",
+    "type": "project",
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tayutaedomo",
+            "email": "tayutaedomo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
