@@ -7,6 +7,7 @@ Execute php script on Heroku.
 
 - https://devcenter.heroku.com/categories/php
 
+
 # Local development
 ## Setup
 Setup heroku development environment on your local.
@@ -25,4 +26,15 @@ $ php composer.phar install
 $ heroku run "php -a"
 ```
 See: https://devcenter.heroku.com/articles/getting-started-with-php#start-an-interactive-shell
+
+
+# Deploy
+
+
+# Source
+## [index.php](https://github.com/tayutaedomo/heroku-php/blob/master/web/index.php)
+Show page links.
+
+## [phpinfo.php](https://github.com/tayutaedomo/heroku-php/blob/master/web/phpinfo.php)
+Show phpinfo.
 
