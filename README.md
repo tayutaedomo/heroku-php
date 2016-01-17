@@ -1,4 +1,8 @@
 # heroku-php
+[ ![Codeship Status for tayutaedomo/heroku-php](https://codeship.com/projects/c2862f10-9e49-0133-c94c-2a763bc2b06b/status?branch=master)](https://codeship.com/projects/127723)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 Execute php script on Heroku.
 
 ## References
@@ -29,6 +33,14 @@ See: https://devcenter.heroku.com/articles/getting-started-with-php#start-an-int
 
 
 # Deploy
+```
+$ heroku login
+$ heroku git:remote -a <your app name>
+$ git push heroku master
+```
+
+## Heroku Dashboard
+- https://dashboard.heroku.com/
 
 
 # Source
