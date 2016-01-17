@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <title>phpinfo</title>
+<link rel="shortcut icon" href="/assets/images/favicon.ico" />
 <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
 <!-- Compressed CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.1.1/foundation.min.css">
