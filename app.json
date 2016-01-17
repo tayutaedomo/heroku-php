@@ -1,0 +1,7 @@
+{
+  "name": "PHP on Heroku",
+  "description": "Execute php script on Heroku.",
+  "repository": "https://github.com/tayutaedomo/heroku-php",
+  "keywords": ["php", "heroku"]
+}
+
